@@ -8,9 +8,8 @@ License: GNU General Public License v3.0
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: 简约, 两栏, 侧栏在左边, 浮动侧栏, 文章目录, 自适应, 夜间模式, 可自定义
 */
-.fancybox-wrapper {
-    text-align: center!important;
-}
+
+@charset "utf-8";
 
 :root{
 	--themecolor: #5e72e4;
